@@ -29,5 +29,5 @@ To fulling get a view of my task 2, please open the data_insights_presentation f
 
 # TASK 3
 
-Task 3 is the genral presentation of visuals. The data_visualization_presentation file has the full report documentation.
+Task 3 is the genral presentation of visuals. The data_visualization_presentation file has the full report documentation. Here is the link to the [view_dashboard_insughts](https://github.com/Faithjf/Virtual_internship_FORAGE/blob/main/Data_visualization_presentation.pptx) in powerpoint presentation.
 
