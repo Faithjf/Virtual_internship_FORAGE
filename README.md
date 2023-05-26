@@ -28,7 +28,7 @@ I was tasked to present a report on the aproaches i will take to complete the an
 To fulling get a view of my task 2, please open the data_insights_presentation file. To view all the details of the Exploration analysis, click [here](https://github.com/Faithjf/Virtual_internship_FORAGE/blob/main/Data_insights_presentation.pptx).
 
 ## Python Data Wrangling
-In this stage, i cleaned, transformd, aggregate and visualize the dataset. All the steps involved in cleaning and wrangling the data before visualization are fully documented [here](https://drive.google.com/file/d/1-KYzoS7XYGKr1gfzTTiaptvJo9FNpEmg/view?usp=sharing)
+In this stage, i cleaned, transformd, aggregate and visualize the dataset. All the steps involved in cleaning and wrangling the data before visualization are fully documented [here](https://drive.google.com/file/d/1-KYzoS7XYGKr1gfzTTiaptvJo9FNpEmg/view?usp=sharing) or refer to the readme [file](https://github.com/Faithjf/Virtual_internship_FORAGE/blob/main/New_customer_EDA.ipynb)
 # TASK 3
 
 Task 3 is the genral presentation of visuals. The data_visualization_presentation file has the full report documentation. Here is the link to the [view_dashboard_insights](https://github.com/Faithjf/Virtual_internship_FORAGE/blob/main/Data_visualization_presentation.pptx) in powerpoint presentation with conclusions and recommendations.
